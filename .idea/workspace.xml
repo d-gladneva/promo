@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="560" column="14" lean-forward="true" selection-start-line="560" selection-start-column="14" selection-end-line="560" selection-end-column="14" />
+            <state relative-caret-position="126">
+              <caret line="655" column="22" selection-start-line="655" selection-start-column="4" selection-end-line="655" selection-end-column="22" />
               <folding>
                 <marker date="1621804164269" expanded="true" signature="1882:1918" ph="..." />
                 <marker date="1621804164269" expanded="true" signature="2207:2243" ph="..." />
@@ -174,15 +174,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621615187088</updated>
-      <workItem from="1621615188932" duration="79607000" />
+      <workItem from="1621615188932" duration="80283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79607000" />
+    <option name="totallyTimeSpent" value="80283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24880762" />
@@ -265,8 +266,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="560" column="14" lean-forward="true" selection-start-line="560" selection-start-column="14" selection-end-line="560" selection-end-column="14" />
+        <state relative-caret-position="126">
+          <caret line="655" column="22" selection-start-line="655" selection-start-column="4" selection-end-line="655" selection-end-column="22" />
           <folding>
             <marker date="1621804164269" expanded="true" signature="1882:1918" ph="..." />
             <marker date="1621804164269" expanded="true" signature="2207:2243" ph="..." />

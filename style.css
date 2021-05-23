@@ -655,7 +655,7 @@
 
     .footer-icons_text {
         font-size: 11px;
-        top: 130px;
+        top: 121px;
         width: 66%;
     }
 
@@ -668,7 +668,7 @@
     }
 
     .footer-icons {
-        top: 30%;
+        top: 36%;
         left: 31%;
     }
 
@@ -678,13 +678,13 @@
 
     .footer-conditions {
         font-size: 7px;
-        top: 45%;
+        top: 51%;
         width: 80%;
     }
 
     .footer-icons_logo {
-        width: 25%;
-        top: 53%;
+        width: 18%;
+        top: 58%;
     }
 
     .footer-head {
@@ -693,11 +693,11 @@
     }
 
     .footer-play {
-        top: 14%;
+        top: 16%;
     }
 
     .footer {
-        height: 500px;
+        height: 400px;
     }
 
     .terms-of-use {
