@@ -3,9 +3,7 @@ const sliderhars = () => {
     const nextBtn = document.querySelector('.next');
     const prevBtn = document.querySelector('.prev');
     const slider = document.querySelector('.main-slider');
-    console.log(slider);
     const slides = slider.querySelectorAll('.slide');
-    console.log(slides);
 
     const gallerySlider = {
         showSlides(n) {
