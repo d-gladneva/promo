@@ -21,7 +21,6 @@
     flex-direction: column;
     align-items: center;
     position: relative;
-    background-image: url(./img/1_HEADER/1_HEADER_bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -29,16 +28,15 @@
     width: 100%;
 }
 
-/*.header img {*/
-/*    position: absolute;*/
-/*}*/
-
 .header-logo {
-    width: 36.041%;
+    position: absolute;
+    width: 33.041%;
 }
 
 .header-head {
-    width: 68%;
+    position: absolute;
+    top: 32%;
+    width: 42%;
 }
 
 .header-text {
@@ -52,6 +50,15 @@
     width: 74.0625%;
     height: 171px;
     z-index: 13;
+}
+
+.header-play {
+    top: 45%;
+}
+
+.play{
+    background-image: url("./img/BTN_play_normal.png");
+    position: absolute;
 }
 
 .play:hover {
@@ -98,8 +105,8 @@
     text-align: left;
     text-shadow: 0px 5px 30px rgba(35, 27, 32, 0.004);
     position: absolute;
-    left: 287px;
-    top: 99px;
+    left: 22.948%;
+    top: 16.156%;
     width: 271px;
     height: 81px;
     z-index: 247;
@@ -113,8 +120,8 @@
     text-align: left;
     text-shadow: 0px 5px 30px rgba(35, 27, 32, 0.004);
     position: absolute;
-    left: 287px;
-    top: 99px;
+    left: 22.948%;
+    top: 16.156%;
     width: 297px;
     height: 81px;
     z-index: 179;
@@ -157,25 +164,25 @@
 
 .chars_icons {
     position: absolute;
-    width: 150px;
-    height: 150px;
+    width: 140px;
+    height: 140px;
     right: 177px;
     background-repeat: no-repeat;
     z-index: 22;
 }
 
 .icon-Isolda {
-    top: 20px;
+    top: 3%;
     background-image: url("./img/2_CHARS/2_CHARS_icon_Isolda_inactive.png");
 }
 
 .icon-Lleyn {
-    top: 173px;
+    top: 27%;
     background-image: url("./img/2_CHARS/2_CHARS_icon_Lleyn_inactive.png");
 }
 
 .icon-Pamela {
-    top: 331px;
+    top: 52%;
     background-image: url("./img/2_CHARS/2_CHARS_icon_Pamela_inactive.png");
 }
 
@@ -215,7 +222,7 @@
 }
 
 .chars_fractions_Lleyn {
-    top: 99px;
+    top: 17.1561%;
 }
 
 .chars_icons, .video-icon, .header-logo, .video-scroll, .play {
@@ -239,10 +246,9 @@
 
 .scill-desc {
     position: absolute;
-    font-size: 10px;
+    font-size: 14px;
     font-family: "Lora", serif;
     color: rgb(188, 190, 193);
-    line-height: 2.25;
     text-align: left;
     left: 26.031%;
     width: 200px;
@@ -255,7 +261,7 @@
 }
 
 .scill-desc2 {
-    top: 59.375%;
+    top: 60.375%;;
 
 }
 
@@ -283,7 +289,7 @@
 /*video*/
 
 .video-scroll {
-    bottom: 50px;
+    bottom: 1%;
 }
 
 .video {
@@ -299,6 +305,7 @@
 }
 
 .video video {
+    margin-top: -7px;
     width: 100%;
     height: auto;
 }
@@ -314,7 +321,7 @@
 
 .video-shadow {
     width: 100%;
-    height: 100%;
+    height: 102%;
 }
 
 .video img {
@@ -347,9 +354,7 @@
 .prev, .next {
     cursor: pointer;
     position: absolute;
-    top: 0;
-    top: 50%;
-    width: auto;
+    top: 34%;
     transform: translateY(-50%);
     color: white;
     font-weight: bold;
@@ -361,18 +366,15 @@
     justify-content: center;
     width: 32px;
     height: 32px;
-    border-radius: 50%;
 }
 
 .next {
     transform: rotate(-90deg);
     right: 3.177%;
-    top: 247px;
 }
 .prev {
     transform: rotate(90deg);
     left: 3.177%;
-    top: 247px;
 }
 
 /*mounts*/
@@ -382,7 +384,6 @@
     flex-direction: column;
     align-items: center;
     position: relative;
-    background-image: url("./img/4_MOUNT/4_MOUNT_bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -391,21 +392,55 @@
 }
 
 .mounts-head {
+    position: absolute;
     width: 69%;
+}
+
+.mounts-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 57%;
+}
+
+.mounts-levels {
+    font-size: 20px;
+    font-family: "Lora", serif;
+    color: rgb(255, 196, 25);
+    position: absolute;
+    top: 63%;
+    text-align: center;
+    text-shadow: 0px 5px 30px rgb(35 27 32 / 0%);
+    z-index: 392;
 }
 
 .mounts-rating {
     display: flex;
+    position: absolute;
+    top: 55%;
+}
+
+.mounts-rating1 {
+    width: 57%;
+    object-fit: contain;
+}
+
+.mounts-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .mounts-desc {
-    font-size: 16px;
+    position: absolute;
+    font-size: 21px;
     font-family: "Lora", serif;
     color: rgb(249, 244, 233);
     line-height: 1.5;
     text-align: center;
-    top: 41.969%;
-    width: 50.395%;
+    top: 68.969%;
+    width: 75.395%;
     height: 132px;
     z-index: 382;
 }
@@ -495,9 +530,25 @@
     top: 760px
 }
 
+.footer-play {
+    top: 15%;
+}
+
+.terms-of-use {
+    font-size: 14px;
+    font-family: "Lora", serif;
+    color: rgba(211, 211, 211, 0.502);
+    text-decoration: underline;
+    line-height: 1.489;
+    text-align: center;
+    width: 217px;
+    height: 14px;
+    z-index: 443;
+}
+
 .down {
     position: absolute;
-    bottom: 20px;
+    bottom: -1%;
     cursor: pointer;
     z-index: 2222;
 }
