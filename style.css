@@ -473,34 +473,42 @@
 
 .footer-icons_fb:hover {
     background-image: url("./img/5_FOOTER/5_FOOTER_btn_fb_hover.png");
+    background-size: contain;
 }
 
 .footer-icons_fb:active {
     background-image: url("./img/5_FOOTER/5_FOOTER_btn_fb_active.png");
+    background-size: contain;
 }
 
 .footer-icons_vk:hover {
     background-image: url("./img/5_FOOTER/5_FOOTER_btn_vk_hover.png");
+    background-size: contain;
 }
 
 .footer-icons_vk:active {
     background-image: url("./img/5_FOOTER/5_FOOTER_btn_vk_active.png");
+    background-size: contain;
 }
 
 .footer-icons_ok:hover {
     background-image: url("./img/5_FOOTER/5_FOOTER_btn_ok_hover.png");
+    background-size: contain;
 }
 
 .footer-icons_ok:active {
     background-image: url("./img/5_FOOTER/5_FOOTER_btn_ok_active.png");
+    background-size: contain;
 }
 
 .footer-icons_mail:hover {
     background-image: url("./img/5_FOOTER/5_FOOTER_btn_mail_hover.png");
+    background-size: contain;
 }
 
 .footer-icons_mail:active {
     background-image: url("./img/5_FOOTER/5_FOOTER_btn_mail_active.png");
+    background-size: contain;
 }
 
 .footer-icons_text {
