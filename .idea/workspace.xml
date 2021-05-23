@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff37d6e5-20ee-482f-8586-6e8e83ea9f03" name="Default Changelist" comment="" />
+    <list default="true" id="ff37d6e5-20ee-482f-8586-6e8e83ea9f03" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -28,11 +30,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="247" column="1" lean-forward="true" selection-start-line="247" selection-start-column="1" selection-end-line="247" selection-end-column="1" />
+            <state relative-caret-position="873">
+              <caret line="610" column="4" selection-start-line="610" selection-start-column="4" selection-end-line="610" selection-end-column="4" />
               <folding>
-                <marker date="1621802474263" expanded="true" signature="1882:1918" ph="..." />
-                <marker date="1621802474263" expanded="true" signature="2207:2243" ph="..." />
+                <marker date="1621804051651" expanded="true" signature="1882:1918" ph="..." />
+                <marker date="1621804051651" expanded="true" signature="2207:2243" ph="..." />
               </folding>
             </state>
           </provider>
@@ -174,22 +176,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621615187088</updated>
-      <workItem from="1621615188932" duration="77962000" />
+      <workItem from="1621615188932" duration="79340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77962000" />
+    <option name="totallyTimeSpent" value="79340000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24880762" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.36412078" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.18650089" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -265,11 +268,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="247" column="1" lean-forward="true" selection-start-line="247" selection-start-column="1" selection-end-line="247" selection-end-column="1" />
+        <state relative-caret-position="873">
+          <caret line="610" column="4" selection-start-line="610" selection-start-column="4" selection-end-line="610" selection-end-column="4" />
           <folding>
-            <marker date="1621802474263" expanded="true" signature="1882:1918" ph="..." />
-            <marker date="1621802474263" expanded="true" signature="2207:2243" ph="..." />
+            <marker date="1621804051651" expanded="true" signature="1882:1918" ph="..." />
+            <marker date="1621804051651" expanded="true" signature="2207:2243" ph="..." />
           </folding>
         </state>
       </provider>

@@ -557,6 +557,9 @@
 }
 
 @media (max-width: 575.98px) {
+
+    /*header*/
+
     .header-text {
         font-size: 7px;
     }
@@ -565,63 +568,12 @@
         width: 32px;
     }
 
-    .mounts-rating1 {
-        width: 47%;
-    }
+    /*chars*/
 
-    .mounts-levels {
-        font-size: 8px;
-    }
-
-    .mounts-desc {
-        font-size: 6px;
-    }
-
-    .footer-icons_text {
-        font-size: 11px;
-        top: 130px;
-        width: 66%;
-    }
-
-    .footer-play {
-        top: 7%;
-    }
-
-    .footer-icons a>img {
-        width: 10%;
-    }
-
-    .footer-icons {
-        top: 20%;
-        left: 31%;
-    }
-
-    .footer-icons a>img {
-        width: 13%;
-    }
-
-    .footer-conditions {
-        font-size: 14px;
-        top: 27%;
-        width: 80%;
-    }
-    .footer-icons_logo {
-        width: 25%;
-        top: 42%;
-    }
-
-    .video-scroll {
-        width: 32px;
-    }
-
-    .video-icon {
-        width: 17%;
-    }
 
     .chars-description, .chars-text {
         font-size: 6px;
     }
-
     .scill-img1 {
         top: 55.75%;
         width: 4%;
@@ -653,6 +605,10 @@
         top: 62.385%;
     }
 
+    .scill-title {
+        font-size: 7px;
+    }
+
     .chars-caption_Lleyn {
         font-size: 7px;
         left: 25.948%;
@@ -668,10 +624,83 @@
         width: 3%;
     }
 
+    /*video*/
+
+    .video-scroll {
+        width: 32px;
+    }
+
+    .video-icon {
+        width: 17%;
+    }
     .video-shadow {
         height: 107%;
     }
-    .scill-title {
+
+    /*mounts*/
+
+    .mounts-rating1 {
+        width: 47%;
+    }
+
+    .mounts-levels {
+        font-size: 8px;
+    }
+
+    .mounts-desc {
+        font-size: 6px;
+    }
+
+    /*footer*/
+
+    .footer-icons_text {
+        font-size: 11px;
+        top: 130px;
+        width: 66%;
+    }
+
+    .footer-play {
+        top: 7%;
+    }
+
+    .footer-icons a>img {
+        width: 10%;
+    }
+
+    .footer-icons {
+        top: 30%;
+        left: 31%;
+    }
+
+    .footer-icons a>img {
+        width: 13%;
+    }
+
+    .footer-conditions {
+        font-size: 7px;
+        top: 45%;
+        width: 80%;
+    }
+
+    .footer-icons_logo {
+        width: 25%;
+        top: 53%;
+    }
+
+    .footer-head {
+        top: 4%;
+        position: absolute;
+    }
+
+    .footer-play {
+        top: 14%;
+    }
+
+    .footer {
+        height: 500px;
+    }
+
+    .terms-of-use {
         font-size: 7px;
     }
 }
