@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff37d6e5-20ee-482f-8586-6e8e83ea9f03" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="ff37d6e5-20ee-482f-8586-6e8e83ea9f03" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -31,11 +28,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="657" column="22" lean-forward="true" selection-start-line="657" selection-start-column="22" selection-end-line="657" selection-end-column="22" />
+            <state relative-caret-position="119">
+              <caret line="247" column="1" lean-forward="true" selection-start-line="247" selection-start-column="1" selection-end-line="247" selection-end-column="1" />
               <folding>
-                <marker date="1621802076227" expanded="true" signature="1882:1918" ph="..." />
-                <marker date="1621802076227" expanded="true" signature="2207:2243" ph="..." />
+                <marker date="1621802474263" expanded="true" signature="1882:1918" ph="..." />
+                <marker date="1621802474263" expanded="true" signature="2207:2243" ph="..." />
               </folding>
             </state>
           </provider>
@@ -177,12 +174,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621615187088</updated>
-      <workItem from="1621615188932" duration="77712000" />
+      <workItem from="1621615188932" duration="77962000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77712000" />
+    <option name="totallyTimeSpent" value="77962000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -268,11 +265,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="657" column="22" lean-forward="true" selection-start-line="657" selection-start-column="22" selection-end-line="657" selection-end-column="22" />
+        <state relative-caret-position="119">
+          <caret line="247" column="1" lean-forward="true" selection-start-line="247" selection-start-column="1" selection-end-line="247" selection-end-column="1" />
           <folding>
-            <marker date="1621802076227" expanded="true" signature="1882:1918" ph="..." />
-            <marker date="1621802076227" expanded="true" signature="2207:2243" ph="..." />
+            <marker date="1621802474263" expanded="true" signature="1882:1918" ph="..." />
+            <marker date="1621802474263" expanded="true" signature="2207:2243" ph="..." />
           </folding>
         </state>
       </provider>
